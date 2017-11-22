@@ -16,7 +16,6 @@ C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos\bin\Debug\Xamarin.Forms
 C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.csproj.App.config
-C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.csprojResolveAssemblyReference.cache
 C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.csproj.CoreCompileInputs.cache
 C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.MainPage.xaml.g.cs
 C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.App.xaml.g.cs
@@ -42,3 +41,4 @@ C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.G
 C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.API.PhoneView.xaml.g.cs
 C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.dll
 C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.pdb
+C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.csprojResolveAssemblyReference.cache
