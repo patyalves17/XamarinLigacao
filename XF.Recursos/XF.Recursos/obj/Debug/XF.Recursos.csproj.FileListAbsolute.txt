@@ -46,3 +46,4 @@ C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.A
 C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.Controles.PickerView.xaml.g.cs
 C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.Controles.ProgressoView.xaml.g.cs
 C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.Controles.ListPickerView.xaml.g.cs
+C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.Controles.EditorView.xaml.g.cs
