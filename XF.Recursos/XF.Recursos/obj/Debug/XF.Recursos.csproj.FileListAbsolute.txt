@@ -45,3 +45,4 @@ C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.c
 C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.API.CameraView.xaml.g.cs
 C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.Controles.PickerView.xaml.g.cs
 C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.Controles.ProgressoView.xaml.g.cs
+C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.Controles.ListPickerView.xaml.g.cs

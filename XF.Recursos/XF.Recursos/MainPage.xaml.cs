@@ -96,6 +96,9 @@ namespace XF.Recursos
         {
             await Navigation.PushAsync(new Controles.ProgressoView());
         }
-
+        private async void btnPicker_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Controles.ListPickerView());
+        }
     }
 }
