@@ -31,6 +31,11 @@
                 <Label FontSize="20" Text="Phone API"></Label>
                 <Button x:Name="btnLigar" Text="Telefone" Clicked="btnLigar_Clicked"></Button>
 
+                <Button x:Name="btnCamera" Text="Camera" Clicked="btnCamera_Clicked"></Button>
+
+                <Label FontSize="20" Text="Controles Básicos"></Label>
+                <Button x:Name="btnData" Text="Datas" Clicked="btnData_Clicked"></Button>
+
 
             </StackLayout>
         </ScrollView>
